@@ -1,1 +1,1 @@
-Point32Array[] points
+Point32[] points
